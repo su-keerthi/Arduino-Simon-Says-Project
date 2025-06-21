@@ -22,13 +22,12 @@ This is a physical memory game based on the classic **Simon Says** game, built u
 ## Features
 - LCD display to provide instructions to the players.
 - Buzzer to provide sound feedback.
-- Display the final score
+- Display the final score.
 - Dual player mode that allows two players to play on after another, their individual scores are displayed and finally the winner is displayed.
 
 ---
 
-## Contrubutions
+## Contributions
 This project was collaboratively developed by 
-[Sukeerthi Kattamuri(www.linkedin.com/in/sukeerthi-kattamuri-5394a1266)]
+[Sukeerthi Kattamuri](www.linkedin.com/in/sukeerthi-kattamuri-5394a1266)
 Chandralekhya
-For Electronic Workshop 1 – 1-1  

@@ -23,6 +23,11 @@ This is a physical memory game based on the classic **Simon Says** game, built u
 
 ---
 
+## Images
+(./Images/Initial_circuit.jpg)
+
+
+---
 ## Features
 - LCD display to provide instructions to the players.
 - Buzzer to provide sound feedback.

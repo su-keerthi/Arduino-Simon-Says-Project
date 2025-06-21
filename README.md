@@ -28,6 +28,7 @@ This is a physical memory game based on the classic **Simon Says** game, built u
 ---
 
 ## Contributions
-This project was collaboratively developed by 
+This project was collaboratively developed by:
+
 -[Sukeerthi Kattamuri](www.linkedin.com/in/sukeerthi-kattamuri-5394a1266)
 -Chandralekhya

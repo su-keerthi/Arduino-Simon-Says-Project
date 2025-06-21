@@ -1,4 +1,4 @@
-# Arduino-Simon-Says-Project
+## Arduino-Simon-Says-Project
 
 This is a physical memory game based on the classic **Simon Says** game, built using Arduino UNO. The game lights up a sequence of LEDs that the player has to remember and repeat using push button inputs. The sequence gets longer with each round. If a wrong button is pressed, the game ends and the score is displayed.
 ---

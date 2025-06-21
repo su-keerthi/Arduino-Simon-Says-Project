@@ -1,7 +1,6 @@
 # Arduino-Simon-Says-Project
 
-This is a physical memory game based on the classic **Simon Says** game, built using Arduino UNO. The game lights up a sequence of LEDs that the player has to remember and repeat using push button inputs. The sequence gets longer with each round. The game also includes an LCD display that provides the player with instructions as well as a buzzer for sound feedback. A dual player option as well, where players go one after another. At the end, the individual scores are displayed as well as the winner. 
-
+This is a physical memory game based on the classic **Simon Says** game, built using Arduino UNO. The game lights up a sequence of LEDs that the player has to remember and repeat using push button inputs. The sequence gets longer with each round. If a wrong button is pressed, the game ends and the score is displayed.
 ---
 
 ## Tinkercad Simulation
@@ -20,16 +19,16 @@ This is a physical memory game based on the classic **Simon Says** game, built u
 
 ---
 
-## How It Works - single player mode
-- The game starts by blinking one LED.
-- The player presses the corresponding button.
-- If correct, the next round adds one more LED to the sequence.
-- If the player presses a wrong button, the game ends and the score is displayed.
+## Features
+- LCD display to provide instructions to the players.
+- Buzzer to provide sound feedback.
+- Display the final score
+- Dual player mode that allows two players to play on after another, their individual scores are displayed and finally the winner is displayed.
 
 ---
 
 ## Contrubutions
 This project was collaboratively developed by 
-Sukeerthi Kattamuri
+[Sukeerthi Kattamuri(www.linkedin.com/in/sukeerthi-kattamuri-5394a1266)]
 Chandralekhya
 For Electronic Workshop 1 – 1-1  

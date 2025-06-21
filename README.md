@@ -24,7 +24,7 @@ This is a physical memory game based on the classic **Simon Says** game, built u
 ---
 
 ## Images
-(./Images/Initial_circuit.jpg)
+![Initial Circuit](./Images/Initial_circuit.jpg)
 
 
 ---

@@ -33,7 +33,7 @@ This is a physical memory game based on the classic **Simon Says** game, built u
 ---
 ## Features
 - LCD display to provide instructions to the players.
-- Buzzer to provide sound feedback.
+- Buzzer to provide audio feedback.
 - Display the final score.
 - Dual player mode that allows two players to play on after another, their individual scores are displayed and finally the winner is displayed.
 

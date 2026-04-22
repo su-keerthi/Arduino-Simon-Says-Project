@@ -43,5 +43,5 @@ This is a physical memory game based on the classic **Simon Says** game, built u
 This project was collaboratively developed by:
 
 - [Sukeerthi Kattamuri](https://www.linkedin.com/in/sukeerthi-kattamuri-5394a1266)
-- Chandralekhya
+- [Chandralekhya Gopavarapu](https://www.linkedin.com/in/chandralekhya-gopavarapu-18400a372/)
 
